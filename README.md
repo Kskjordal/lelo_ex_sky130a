@@ -4,15 +4,15 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-kris
+Kristoffer Skjoerdal
 
 # Why
 
-<explain why you made this module>
+Tutorial on how to use the open source tools to make a current mirror in Skywater 130nm process. It includes various simulations across PVT with and without layout effects. 
 
 # How
 
-<explain short how you made this module>
+Followed the tutorial found here: https://analogicus.com/aic2026/sky130nm_tutorial
 
 
 # What
