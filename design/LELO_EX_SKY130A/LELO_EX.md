@@ -1,0 +1,1 @@
+Tutorial for using open source tools with the Skywater 130nm PDK. In this example a 1:4 current mirror has been made. Simulations include both with and without layout effects.
