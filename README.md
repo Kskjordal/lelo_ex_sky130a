@@ -4,7 +4,7 @@
 [![DOCS](../../actions/workflows/docs.yaml/badge.svg)](../../actions/workflows/docs.yaml)
 
 # Who
-Kristoffer Skjoerdal
+Kristoffer Skjørdal
 
 # Why
 
